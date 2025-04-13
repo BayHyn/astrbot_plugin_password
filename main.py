@@ -11,7 +11,7 @@ CMD_CONFIG_PATH = "data/cmd_config.json"
 
 
 @register(
-    "asrebot_plugin_password",
+    "astrbot_plugin_password",
     "Zhalslar",
     "强制修改astrbot的面板登录密码（仅管理员可用）",
     "1.0.0",
