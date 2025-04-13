@@ -26,13 +26,15 @@ git clone https://github.com/Zhalslar/astrbot_plugin_password
 # 控制台重启AstrBot
 ```
 
+
 ## ⌨️ 使用命令
 
-### 基础命令
+|     命令      |            说明            |
+|:-------------:|:--------------------------:|
+| /修改用户名 xxx    | 修改astrbot面板的用户名  |
+| /修改密码 xxx  |  修改astrbot面板的登录密码   |
+![plugin_password](https://github.com/user-attachments/assets/7307be02-b67f-4cbc-8cae-da042c0847de)
 
-```plaintext
-/修改密码 xxx
-```
 
 ## 📌 注意事项
 
