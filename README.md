@@ -36,7 +36,8 @@ git clone https://github.com/Zhalslar/astrbot_plugin_password
 | /修改密码 xxx  |  修改astrbot面板的登录密码   |
 
 ### 示例图
-![plugin_password](https://github.com/user-attachments/assets/7307be02-b67f-4cbc-8cae-da042c0847de)
+
+![dc26fa01d86c81d8d1785c948ed2825](https://github.com/user-attachments/assets/471b5f7e-746a-4360-badb-389304769320)
 
 ## 📌 注意事项
 
