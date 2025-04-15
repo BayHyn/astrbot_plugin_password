@@ -48,7 +48,7 @@ class Box(Star):
     @filter.permission_type(PermissionType.ADMIN)
     @filter.command("修改用户名")
     async def change_username(
-        self, event: AstrMessageEvent, input_username):
+        self, event: AstrMessageEvent, input_username:int|str|None=None):
         """/修改用户名 xxx"""
         if not input_username:
             yield event.plain_result("未输入新用户名")
@@ -68,7 +68,7 @@ class Box(Star):
 
     @filter.permission_type(PermissionType.ADMIN)
     @filter.command("修改密码")
-    async def change_password(self, event: AstrMessageEvent, input_password):
+    async def change_password(self, event: AstrMessageEvent, input_password:int|str|None=None):
         """/修改密码 xxx"""
         if not input_password:
             yield event.plain_result("未输入新密码")
