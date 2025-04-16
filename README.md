@@ -1,11 +1,17 @@
+</div>
 
 <div align="center">
 
+![:name](https://count.getloli.com/@astrbot_plugin_password?name=astrbot_plugin_password&theme=minecraft&padding=6&offset=0&align=top&scale=1&pixelated=1&darkmode=auto)
+
 # astrbot_plugin_password
+
+_✨ [astrbot](https://github.com/AstrBotDevs/AstrBot) 密码插件 ✨_  
 
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![AstrBot](https://img.shields.io/badge/AstrBot-3.4%2B-orange.svg)](https://github.com/Soulter/AstrBot)
+[![GitHub](https://img.shields.io/badge/作者-Zhalslar-blue)](https://github.com/Zhalslar)
 
 </div>
 
@@ -26,10 +32,10 @@ git clone https://github.com/Zhalslar/astrbot_plugin_password
 # 控制台重启AstrBot
 ```
 
-
 ## ⌨️ 使用说明
 
 ### 命令表
+
 |     命令      |            说明            |
 |:-------------:|:--------------------------:|
 | /修改用户名 xxx    | 修改astrbot面板的用户名  |
@@ -39,14 +45,19 @@ git clone https://github.com/Zhalslar/astrbot_plugin_password
 
 ![dc26fa01d86c81d8d1785c948ed2825](https://github.com/user-attachments/assets/471b5f7e-746a-4360-badb-389304769320)
 
+## 🤝 TODO
+
+- [x] 查看历史上的今天
+- [x] 查看历史上的每一天
+
+## 👥 贡献指南
+
+- 🌟 Star 这个项目！（点右上角的星星，感谢支持！）
+- 🐛 提交 Issue 报告问题
+- 💡 提出新功能建议
+- 🔧 提交 Pull Request 改进代码
+
 ## 📌 注意事项
 
 - 仅管理员可用命令修改密码，不必担心被人串改密码
-
-## 🌟 支持
-
-- Star 这个项目！
-
-## 📜 开源协议
-
-本项目采用 [MIT License](LICENSE)
+- 如果想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
