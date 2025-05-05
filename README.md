@@ -60,4 +60,4 @@ git clone https://github.com/Zhalslar/astrbot_plugin_password
 ## 📌 注意事项
 
 - 仅管理员可用命令修改密码，不必担心被人串改密码
-- 如果想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561
+- 如果想第一时间得到反馈的可以来作者的插件反馈群（QQ群）：460973561（不点star不给进）
